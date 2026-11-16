@@ -1,1 +1,1 @@
-# hardware_project_tamodatchi
+# hardware_project_basic_game
